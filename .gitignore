@@ -4,3 +4,6 @@
 # Ignore IDE settings and preferences
 .idea/
 .vs/
+
+# Ignore other files
+tidy.dll
