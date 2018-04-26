@@ -1,0 +1,6 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE settings and preferences
+.idea/
+.vs/
