@@ -1,0 +1,8 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore build artifacts, log and temporary files (in alphabetical order)
+*.fmu
+*_log.txt
+*_result.txt
+log.txt
