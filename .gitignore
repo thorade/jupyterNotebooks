@@ -6,5 +6,6 @@
 .vs/
 
 # Ignore other files
+temp/
 tidy.dll
 Modelon/
