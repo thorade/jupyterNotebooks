@@ -10,3 +10,4 @@ log.txt
 modelDescription.xml
 *.mat
 *.dll
+*_html_diagnostics
