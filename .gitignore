@@ -6,6 +6,7 @@
 .vs/
 
 # Ignore other files
+*.zip
 temp/
 tidy.dll
 Modelon/
